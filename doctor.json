@@ -1,0 +1,54 @@
+{
+
+    "doctors" : [
+        {
+            "name": "Dr. Bellamy Nicholas",
+            "photo":"",
+            "field" : "Viralogist",
+            "patients" : 1099,
+            "experience": 10,
+            "ratings": 4.5,
+            "about": "Dr. Bellamy Nicholas is a top specialist at London Bridge Hospital at London. He has achieved several awards and recognition for is contribution and service in his own field. He is available for private consultation.",
+            "workingday": {
+                "from": "Monday",
+                "to": "Saturday"
+            },
+            "workingtime": {
+                "from" : "08:30 AM",
+                "to" : "09:00 PM"
+            },
+            "communication": {
+                "messaging": "+905551117777",
+                "audiocall": "+905551117777",
+                "videocall": "+905551117777"
+            }
+
+        },
+        {
+            "name": "Dr. Salihcan Kahya",
+            "photo":"",
+            "field" : "kafasına göre",
+            "patients" : 100,
+            "experience": 1,
+            "ratings": 1.5,
+            "about": "Yapıyor bir şeyler",
+            "workingday": {
+                "from": "Tuesday",
+                "to": "Friday"
+            },
+            "workingtime": {
+                "from" : "14:30 AM",
+                "to" : "17:00 PM"
+            },
+            "communication": {
+                "messaging": "+905551117777",
+                "audiocall": "+905551117777",
+                "videocall": "+905551117777"
+            }
+
+        }
+
+
+    ]
+
+}
